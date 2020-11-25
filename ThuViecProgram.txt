@@ -1,0 +1,19 @@
+11/18/2020
+Tìm hiểu MDMS
+Cài đặt VS2019 Community
+Tìm hiểu netcore 3.2
+Tìm hiểu cách sử dụng zalo api
+
+11/19/2020
+Cài đặt và sử dụng oracle 12c, tạo user, run script
+Tìm hiểu MDMS_BIENDONG_CMIS
+
+11/20/2020
+Cài Toad
+Thực hiện Demo c#, dapper kết nối Oracle phát hiện cảnh báo trường hợp không hợp lệ
+Thực hiện function send cảnh báo tới group skype, zalo
+Thực hiện function send cảnh báo tới ds mail
+
+
+
+
