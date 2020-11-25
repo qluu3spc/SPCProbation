@@ -14,6 +14,15 @@ Thực hiện Demo c#, dapper kết nối Oracle phát hiện cảnh báo trư�
 Thực hiện function send cảnh báo tới group skype, zalo
 Thực hiện function send cảnh báo tới ds mail
 
+11/23/2020
+Tạo Official Account của Zalo
+Thực hiện Demo gửi request từ console
+ 
+11/24/2020
+Hoàn thành Demo gửi request từ console
+
+11/25/2020
+
 
 
 

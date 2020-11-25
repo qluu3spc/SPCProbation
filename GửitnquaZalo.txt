@@ -1,0 +1,7 @@
+Bước 1: Tạo Official Account.(phía zalo duyệt)
+Bước 2: Tạo ứng dụng.
+Bước 3: Liên kết ứng dụng với Official Account.
+Bước 4. Xin xét duyệt quyền để sử dụng các API.(phía zalo duyệt)
+Bước 5. Lấy Official Account Access Token
+
+	
